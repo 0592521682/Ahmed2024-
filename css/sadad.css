@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'New sans Arabic';
+    src: url(../fonts/alfont_com_NeoSansArabic.ttf);
+  
+  }
+  
+  body {
+    font-family: 'New sans Arabic';
+    /* padding-top: 76px; */
+  }
+  
+#clock1 {
+    margin: 200px 200px auto !important;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 700px;
+      margin-left: -350px; /*set to a negative number 1/2 of your width*/
+      height:100px;
+      margin-top: -60px; /*set to a negative number 1/2 of your height*/
+  }
+  
+
+  /*  كلسات من عندي */
+  .f-40 {
+    font-size: 40px;
+  }
+  
+  .f-60 {
+    font-size: 60px;
+  
+  }
+  
+  .f-90 {
+    font-size: 90px;
+  }
+  
+  .f-24 {
+    font-size: 24px;
+  }
+  
+  .f-20 {
+    font-size: 20px;
+  }
+  
+  .f-48 {
+    font-size: 48px;
+  }
+  
+  .f-72 {
+    font-size: 72px;
+  }
+  
+  .f-36 {
+    font-size: 36px;
+  }
+  
+  .f-30 {
+    font-size: 30px;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  
+  header ul li {
+    margin: 0 7px;
+  }
+  
+  .hero {
+    padding: 200px;
+  }
+  
+  .store-btn img {
+    height: 45px;
+    width: 150px;
+  }
+  
+  .py-120 {
+    padding: 120px 0;
+  }
+  
+  main section {
+    overflow-x: hidden;
+  }
+  
+  .working-comfort {
+    position: relative;
+  }
+  
+  .working-comfort .content {
+    position: absolute;
+    width: 100%;
+    top: 160px;
+    z-index: 99;
+  }
+  
+  .footer-widget {
+    margin-bottom: 64px;
+  }
+  
+    .footer-widget h3 {
+        font-size: 20px;
+        font-weight: 600;
+        color: var(--main-color);
+        margin-bottom: 24px;
+    }
+  
+    .footer-widget ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+  
+    .footer-widget li a {
+        display: block;
+        text-decoration: none;
+        color: #121212;
+        font-weight: 400;
+        line-height: 30px;
+    }
+  
+  footer .social-links {
+    margin-top: 50px;
+  }
+  
+    footer .social-links ul.socials li {
+        margin-right: 55px;
+    }
+  
+  /* footer .social-links .icons a {
+    display: inline-block;
+    margin: 0 0 12px 12px;
+  } */
+  
+  .icons a {
+    display: inline-block;
+    margin: 0 0 15px 12px;
+  }
+  
